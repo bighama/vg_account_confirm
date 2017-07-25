@@ -1,2 +1,2 @@
 # vg_account_confirm
-VG member
+a3ac3279b0662d16d661b4bf7df32d260cea941e25cd0678324ebca13f153338
